@@ -18,3 +18,5 @@ tax_meal = y + tax
 
 grand_total = tax_meal + tip
 print("Meal price is:",y,"\n","-->5% GST on food services:",tax,"\n","-->18% of Tip is:",tip,"\n","-->Total amount is:",round(grand_total),"\n")
+#grand_total = tax_meal + tip
+#print("Meal price is:",y,"\n","-->5% GST on food services:",tax,"\n","-->18% of Tip is:",tip,"\n","-->Total amount is:",round(grand_total),"\n")
